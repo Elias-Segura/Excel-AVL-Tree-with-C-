@@ -1,0 +1,10 @@
+﻿  AVL.cpp
+  DATO.cpp
+C:\Users\Elias\Documents\UNA\2022\ICiclo\analisis_algoritmos\ProyectoII\ProyectoII\ProyectoII\Node.h(8,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\Elias\Documents\UNA\2022\ICiclo\analisis_algoritmos\ProyectoII\ProyectoII\ProyectoII\Node.h(8,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Elias\Documents\UNA\2022\ICiclo\analisis_algoritmos\ProyectoII\ProyectoII\ProyectoII\Node.h(8,16): error C2238: unexpected token(s) preceding ';'
+  ProyectoII.cpp
+C:\Users\Elias\Documents\UNA\2022\ICiclo\analisis_algoritmos\ProyectoII\ProyectoII\ProyectoII\Node.h(8,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\Elias\Documents\UNA\2022\ICiclo\analisis_algoritmos\ProyectoII\ProyectoII\ProyectoII\Node.h(8,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Elias\Documents\UNA\2022\ICiclo\analisis_algoritmos\ProyectoII\ProyectoII\ProyectoII\Node.h(8,16): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
